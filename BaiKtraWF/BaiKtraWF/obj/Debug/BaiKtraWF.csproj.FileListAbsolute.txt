@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.Form1.resources
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.Properties.Resources.resources
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\BaiKtraWF.exe.config
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\BaiKtraWF.exe
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\BaiKtraWF.pdb
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.csproj.Up2Date
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.exe
+C:\Users\ACER\source\repos\BaiKtraWF\BaiKtraWF\obj\Debug\BaiKtraWF.pdb
